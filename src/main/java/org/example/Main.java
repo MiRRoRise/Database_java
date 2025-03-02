@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 public class Main {
     public static final String SUPER_USERNAME = "postgres";
-    public static final String SUPER_PASSWORD = "mortis-1Mor"; // Замените на ваш пароль
+    public static final String SUPER_PASSWORD = "your_password"; // Замените на ваш пароль
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
